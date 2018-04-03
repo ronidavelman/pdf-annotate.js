@@ -38,7 +38,7 @@ PDFJS.getDocument(RENDER_OPTIONS.documentId).then((pdf) => {
 });
 ```
 
-See more [examples](https://github.com/instructure/pdf-annotate.js/blob/master/web/index.js).
+See more [examples](http://instructure.github.io/pdf-annotate.js/).
 
 ## Documentation
 
